@@ -269,6 +269,24 @@ body{
     animation-duration: 8s;
     animation-iteration-count: infinite;
 }
+.logo #tiktok{
+    height: auto px;
+    width: 20px;
+    position: absolute;
+    margin: auto;
+    left: -280px;
+    right: 0;
+    top: -100px;
+    bottom: 0;
+    opacity: 100%;
+    display: grid;
+    place-items: center;
+    opacity: 20%;
+    /* display: none; */
+    animation-name: jump;
+    animation-duration: 13s;
+    animation-iteration-count: infinite;
+}
 
 img {
     height: auto px;
